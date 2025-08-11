@@ -4,11 +4,13 @@
     --cor-fundo: #01080E;
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
+    --cor-destaque: #2bfdac;
     --cor-texto: #D7F9FF;
+    --cor: linear gradient()
 }
   
 body {
+    
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: 'Inter', sans-serif;
@@ -60,4 +62,14 @@ button:hover {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+
+h2{color: crimson;
+    margin: 0 ;
+    padding: 0;
+font-size: 25px;}
+
+.c{
+color: chartreuse;
 }
