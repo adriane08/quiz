@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "Qual club paranaense possui mais títulos estaduais (campeonato paranaense)?",
         alternativas: [
             {
-                texto: "Athletico",
+                texto: "Athletico Paranaense",
                 afirmacao: [
                     "Em 111 edições do Campeonato Paranaense, o Coritiba é o maior campeão, com 39 títulos. O Athletico vem em seguida, com 28.",
                     
